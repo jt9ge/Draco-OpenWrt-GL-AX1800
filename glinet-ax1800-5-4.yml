@@ -24,7 +24,7 @@ feeds:
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: 01727b22771f9d41f4164d170c49bc74bd1ec624
+    revision: 66f423fb2bbcf40d54061bdf68b72baac16d119b
 include:
   - wifi-ax
 packages:
@@ -37,10 +37,8 @@ packages:
   - luci-app-smartdns
   - luci-app-openclash
   - luci-app-aria2
-  - luci-app-zerotier
   - luci-app-turboacc
-  - luci-app-xlnetacc
   - luci-app-cpufreq
   - luci-app-ttyd
-  - luci-app-serverchan
-  - luci-app-transmission
+  - luci-app-passwall
+  - luci-app-ssr-plus
