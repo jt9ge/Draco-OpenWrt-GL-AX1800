@@ -26,7 +26,7 @@ feeds:
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: 4ba4559f00b4a378b2381fe03930bf5a245780ed
+    revision: 79261f4cca24f53ea923077f8808f8f3f20d0262
 include: []
 packages:
   - wireless-regdb
@@ -35,13 +35,6 @@ packages:
   - luci-theme-argon
   - luci-app-argon-config
   - luci-app-ramfree
-  - luci-app-wol
-  - luci-app-diskman
-  - luci-app-smartdns
-  - luci-app-openclash
-  - luci-app-aria2
-  - luci-app-turboacc
-  - luci-app-cpufreq
   - luci-app-ttyd
   - luci-app-passwall
   - luci-app-ssr-plus
