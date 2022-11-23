@@ -26,7 +26,7 @@ feeds:
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: 79261f4cca24f53ea923077f8808f8f3f20d0262
+    revision: e8c1858dff27695d5cbe5d6d1606e4102fd3dd24
 include: []
 packages:
   - wireless-regdb
